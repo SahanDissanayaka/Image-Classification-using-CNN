@@ -5,6 +5,6 @@ This repository contains the implementation of a simple Convolutional Neural Net
 
 ## Features
 1. **Custom CNN Implementation**: A simple CNN architecture with convolutional, max-pooling, fully connected layers, and dropout for regularization.
-2. **Fine-tuning Pretrained Models**: Models are fine-tuned to compare performance with the custom CNN.
+2. **Fine-tuning Pretrained Models**: Those Models are fine-tuned to compare performance with the custom CNN.
 3. **Loss Visualization**: Training and validation loss curves are plotted for model evaluation.
 4. **Experimentation**: The project explores different learning rates and their effects on model performance.
